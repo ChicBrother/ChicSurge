@@ -34,6 +34,6 @@ Surege 影梭配置文件
 * SSEncrypt.moduleURL 为ss模块下载地址，首次启用Surge时会提示下载
 
 
->经常更新的Main.conf 外链
+经常更新的Main.conf 外链
 [https://gist.githubusercontent.com/raw/b0c6129840272c136a82/Main.conf](https://gist.githubusercontent.com/raw/b0c6129840272c136a82/Main.conf)
 
